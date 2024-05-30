@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3emlR7ryYzZzG4o0B0QSVDGQ2njwCOogksj2ugKAjkc=",
+  "Source": "plane-spotter-api",
+  "BasePath": "_content/plane-spotter-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

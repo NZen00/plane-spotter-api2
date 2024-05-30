@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\plane-spotter-api.props" />
+</Project>
